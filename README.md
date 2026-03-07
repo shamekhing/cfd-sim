@@ -333,7 +333,18 @@ where $k_n$ are successive Cl sign-change indices.
 
 ### Results Media
 
-- Case video (200x100, Re=1000, 1500 steps): [`cases/main/cyl_200x100re1000stp1500.avi`](cases/main/cyl_200x100re1000stp1500.avi)
+
+**Cylinder snapshots by Reynolds number** (filename code uses scientific notation: `1e02` = Re=100):
+
+| Reynolds number | Snapshot |
+|---|---|
+| Re = 10    | [`cases/main/results/flagship1e01.png`](cases/main/results/flagship1e01.png) |
+| Re = 30    | [`cases/main/results/flagship3e01.png`](cases/main/results/flagship3e01.png) |
+| Re = 60    | [`cases/main/results/flagship6e01.png`](cases/main/results/flagship6e01.png) |
+| Re = 70    | [`cases/main/results/flagship7e01.png`](cases/main/results/flagship7e01.png) |
+| Re = 100   | [`cases/main/results/flagship1e02.png`](cases/main/results/flagship1e02.png) |
+| Re = 1000  | [`cases/main/results/flagship1e03.png`](cases/main/results/flagship1e03.png) |
+| Re = 10000 | [`cases/main/results/flagship1e04.png`](cases/main/results/flagship1e04.png) |
 
 ### Visualising in ParaView
 
